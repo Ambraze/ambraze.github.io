@@ -1,0 +1,24 @@
+- name: Sushanth Kurdekar
+  position: Director
+  degree: BE, Information Science
+  github: iamsushanth
+  interests:
+    - Cloud
+    - Python
+    - Digital Marketing
+
+- name: Shivu Hiremath
+  position: Special Events Coordinator
+  degree: PhD, Physiology
+  github: linamnt
+  interests:
+    - VFX
+    - Design
+
+- name: Rahul Sail 
+  position: Marketing and Social Media Coordinator
+  degree: UI/UX, Design
+  github: rahulsail
+  interests:
+    - Design
+

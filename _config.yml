@@ -1,0 +1,47 @@
+#Setup ~~~
+#Follow these 2 steps to set up your site.
+exclude: [".Rproj.user"]
+
+#Step 1: give your study group a name and a short description:
+title: Ambraze
+description: "Design Your Dreams"
+
+#Step 2: press the green 'Commit Changes' button at the bottom of this page.
+
+# That's it, your website is all set up!
+# You can see it at https://YourUserName.github.io/studyGroup/
+# No need to change anything below this line.
+# To make your first event, check out the instructions at https://github.com/mozillascience/studyGroup#how-to-launch-a-new-event
+# Having trouble? Open a new issue at https://github.com/mozillascience/studyGroup/issues and we'll help you out ASAP!
+
+# Optional Configuration
+# None of these things need to be changed - but feel free!
+
+headlineSmall: "Branding & Digital Marketing Agency"
+headlineMain: "Design Your Dreams"
+avatar: "img/logos/logo_icon_dark.png"
+
+# Setup Google Calendar
+# Usage:
+# 1. create a new google account; set the calendar to 'public'
+# 2. change 'USER' in the example urls below to the username of the google account you made for your calendar
+# 3. set calendar_on: True.
+
+calendar_on: True
+calendar_embed_url: ""
+calendar_ical_url: ""
+
+
+#========================================
+# No touching anything below this line :)
+#========================================
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: a02e2e
+  secondary: 7c1616
+  secondary-dark: 242424
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+future: true
