@@ -28,7 +28,7 @@ avatar: "img/logos/logo_icon_dark.png"
 # 3. set calendar_on: True.
 
 calendar_on: True
-calendar_embed_url: ""
+calendar_embed_url: "https://www.udemy.com/user/sushanth-kurdekar/"
 calendar_ical_url: ""
 
 
