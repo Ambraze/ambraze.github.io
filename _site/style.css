@@ -59,7 +59,7 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
+    
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
 }
@@ -97,7 +97,6 @@ color:#FFFFFF;
 
 .btn-primary {
     border-color: #a02e2e;
-    text-transform: uppercase;
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     color: #fff;
@@ -148,7 +147,6 @@ fieldset[disabled] .btn-primary.active {
     padding: 20px 40px;
     border-color: #a02e2e;
     border-radius: 3px;
-    text-transform: uppercase;
     font-family: 'Poppins', sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -232,7 +230,6 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .nav li a {
-    text-transform: uppercase;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
@@ -316,7 +313,6 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
     font-weight: 200;
@@ -339,7 +335,6 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        text-transform: uppercase;
         font-family: 'Poppins', sans-serif;
         font-size: 75px;
         font-weight: 700;
@@ -442,7 +437,7 @@ section h3.section-subheading {
     margin: 0;
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
-    font-style: italic;
+    font-style: reguler;
 }
 
 #what-we-do * {
@@ -709,28 +704,28 @@ section#come-say-hi .form-control:focus {
 }
 
 section#come-say-hi::-webkit-input-placeholder {
-    text-transform: uppercase;
+    text-transform: none;
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
 section#come-say-hi:-moz-placeholder {
-    text-transform: uppercase;
+    text-transform: none;
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
 section#come-say-hi::-moz-placeholder {
-    text-transform: uppercase;
+    text-transform: none;
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
 section#come-say-hi:-ms-input-placeholder {
-    text-transform: uppercase;
+    text-transform: none;
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     color: #bbb;
@@ -746,7 +741,7 @@ footer {
 }
 
 footer span.copyright {
-    text-transform: uppercase;
+    text-transform: none;
     text-transform: none;
     font-family: 'Poppins', sans-serif;
     line-height: 40px;
@@ -754,7 +749,7 @@ footer span.copyright {
 
 footer ul.quicklinks {
     margin-bottom: 0;
-    text-transform: uppercase;
+    text-transform: none;
     text-transform: none;
     font-family: 'Poppins', sans-serif;
     line-height: 40px;
