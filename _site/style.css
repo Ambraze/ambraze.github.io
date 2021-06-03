@@ -742,6 +742,10 @@ section#come-say-hi .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
+    color: #d3d3d3;
+}
+footer a {
+    color: #d3d3d3;
 }
 
 footer span.copyright {
@@ -749,6 +753,7 @@ footer span.copyright {
     text-transform: none;
     font-family: 'Poppins', sans-serif;
     line-height: 40px;
+    color: #d3d3d3;
 }
 
 footer ul.quicklinks {
@@ -757,6 +762,7 @@ footer ul.quicklinks {
     text-transform: none;
     font-family: 'Poppins', sans-serif;
     line-height: 40px;
+    color: #d3d3d3;
 }
 
 ul.social-buttons {
@@ -776,6 +782,7 @@ ul.social-buttons li a {
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
+    color: #d3d3d3;
 }
 
 ul.social-buttons li a:hover,
@@ -907,7 +914,7 @@ body {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.7;
-    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #06131a;
     margin-bottom: 20px;
 }
@@ -1084,9 +1091,9 @@ select.form-control {
 
 #portfolio .portfolio-item .portfolio-caption p {
     margin: 0;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 16px;
-    font-style: italic;
+    font-style: reguler;
 }
 
 #portfolio * {
