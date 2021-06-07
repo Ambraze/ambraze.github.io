@@ -1098,3 +1098,22 @@ select.form-control {
         margin: 0 0 30px;
     }
 }
+
+
+//CSS
+.carousel-item {
+height: 100vh;
+min-height: 350px;
+background: no-repeat center center scroll;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+//optional css
+.text-CSS {
+    font-size: 55px;
+    color: #003861!important;
+    padding-top: 240px;
+    padding-left: 110px;
+}
