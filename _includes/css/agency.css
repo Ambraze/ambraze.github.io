@@ -321,8 +321,9 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: 'Poppins', sans-serif;
-        font-size: 30px;
-        font-style: reguler;
+        font-size: 25px;
+        font-style: bold;
+        letter-spacing: 6px;
         line-height: 10px;
         text-transform: uppercase;
     }
@@ -330,8 +331,10 @@ header .intro-text .intro-heading {
     header .intro-text .intro-heading {
         margin-bottom: 40px;
         font-family: 'Poppins', sans-serif;
-        font-size: 60px;
+        font-size: 58px;
         font-weight: 600;
+        font-style: semi bold;
+        letter-spacing: 5.3px;
         line-height: 10px;
         text-transform: uppercase;
 
